@@ -1,7 +1,7 @@
 import React from "react";
 import img from "./../assets/Sporsho.png";
 import Typewriter from 'typewriter-effect';
-import cv from "./../../public/cv.pdf"
+import cv from './../../public/cv.pdf'
 
 function Banner() {
   return (
